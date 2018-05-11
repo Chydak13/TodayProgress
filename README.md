@@ -1,0 +1,3 @@
+# TodayProgress
+
+Become cleverer and stroger every day, day by day...
